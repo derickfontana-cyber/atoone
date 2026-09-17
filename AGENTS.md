@@ -1,4 +1,4 @@
-# Project guide
+# Project guide/
 
 ## Overview
 
@@ -6,7 +6,6 @@ Relay is a single-page marketing site for an AI automation consultancy. It uses 
 
 ## Architecture
 
-- `src/routes/index.tsx` contains the homepage structure, copy, workflow data, and lightweight interaction state.
 - `src/routes/__root.tsx` defines the HTML shell and global metadata.
 - `src/styles.css` contains the design tokens, responsive layout, component styling, and motion.
 - `src/router.tsx` configures TanStack Router.
